@@ -1,0 +1,5 @@
+eureka.client.service-url.defaultZone=http://localhost:8010/eureka/
+server.port=8020
+info.app.name=${spring.application.name}
+info.app.description=A service for random sentences
+info.app.version=0.0.1
