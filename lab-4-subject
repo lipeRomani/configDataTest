@@ -1,0 +1,5 @@
+words=I,You,He,She,It
+server.port=${PORT:${SERVER_PORT:0}}
+info.app.name=Subject Service
+info.app.description=This is a service for subject word
+info.app.version=0.0.1
